@@ -13,5 +13,6 @@ A few resources to get you started with Ai APIs
 - [Quick Start Examples with Dart](https://ai.google.dev/tutorials/dart_quickstart)
 - [Sample Prompts](https://ai.google.dev/examples?keywords=prompt)
 - [Prompt Best Practices](https://ai.google.dev/docs/prompt_best_practices)
+- [Text & Image Chatbot sample code by Google](https://github.com/google/generative-ai-dart/tree/main/samples/flutter_app)
 
 For help create an issue at this repo or reach out to me on [LinkedIn](https://www.linkedin.com/in/atiqsamtia/)
